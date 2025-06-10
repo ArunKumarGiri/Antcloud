@@ -14,6 +14,7 @@ import EmailVerification from "@/app/components/emailVerification";
 import { zoom } from "@/app/components/zoom";
 import { useRouter } from "next/navigation";
 
+
 declare global {
   interface WindowEventMap {
     'webview': CustomEvent<WebViewEventDetail>;
