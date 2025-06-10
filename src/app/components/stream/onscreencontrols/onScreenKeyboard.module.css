@@ -1,0 +1,85 @@
+.Keyboard {
+    position: absolute;
+    /* top: 60%;
+    left: 30%;
+    width: 40%;
+    height: 30%; */
+    top: 31%;
+    left: 5.5%;
+    width: 90%;
+    height: 68%;
+    background-color: #202022;
+    display: grid;
+    grid-template-columns: repeat(14, 1fr);
+    gap: 0.4vh;
+    padding: 0;
+    /* padding: 0 2vh; */
+    z-index: 6;
+}
+
+.Key{
+    background-color: "darkgrey";
+    color: white;
+    height: 100%;
+    padding: 1rem;
+    border: 1px solid;
+    font-size: 0.9rem;
+    /* border: "white";
+    border-style: solid; */
+    /* font-size: 2vh; */
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+}
+
+.Key2{
+    background-color: "darkgrey";
+    color: white;
+    height: 100%;
+    padding: 1rem;
+    border: 1px solid;
+    font-size: 0.9rem;
+    /* border-radius: 0.2vh;
+    border: "white";
+    border-style: solid; */
+    /* font-size: 2vh; */
+    justify-content: center;
+    align-items: center;
+    grid-column: span 2;
+    user-select: none;
+}
+
+.Key3{
+    background-color: "darkgrey";
+    color: white;
+    height: 100%;
+    padding: 1rem;
+    border: 1px solid;
+    font-size: 0.9rem;
+    /* border-radius: 0.2vh;
+    border: "white";
+    border-style: solid; */
+    /* font-size: 2vh; */
+    justify-content: center;
+    align-items: center;
+    grid-column: span 2;
+    user-select: none;
+}
+
+.Key4{
+    background-color: "darkgrey";
+    color: white;
+    height: 100%;
+    padding: 1rem;
+    border: 1px solid;
+    font-size: 0.9rem;
+    /* border-radius: 0.2vh;
+    border: "white";
+    border-style: solid; */
+    /* font-size: 2vh; */
+    justify-content: center;
+    align-items: center;
+    grid-column: span 10;
+    text-align: center;
+    user-select: none;
+}

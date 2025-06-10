@@ -1,0 +1,13 @@
+.Global {
+    text-align: center;
+     /* background-image: url('./Images/12.jpg'); */
+    /* background-color: #282c34;  */
+    background-color: black;
+    min-height: 100vh;
+    display: block;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}

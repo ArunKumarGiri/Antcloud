@@ -1,0 +1,110 @@
+{
+    "latency": [
+        {
+            "ques": "Why am I facing frame drops?",
+            "ans": "Frame drops can occur due to a lot of factors such a high network ping, interference, limited bandwidth etc. In order to resolve, we would recommend switching to a LAN or a 5Ghz Wifi Connection making sure there is no other usage on your internet."
+        },
+        {
+            "ques": "How to lower latency?",
+            "ans": [
+                "Ensure there are no active downloads/streams on your internet connection",
+                "Try playing on a lower video quality",
+                "Try lowering your FPS",
+                "Ensure 'hardware accelration is enabled on your browser",
+                "Try restarting your router",
+                "If playing on a laptop, make sure to plug in your charger",
+                "If playing on browser stream, try switching to windows app or vice versa"
+            ]
+        },
+        {
+            "ques": "What sort of internet connection do you recommend?",
+            "ans": "We recommend a 50 Mbps broadband connection for a 1080p stream & a 100 Mbps broadband connection for a 4K stream. We also highly recommend a LAN or a 5Ghz WiFi connection. For the requirements per system, check the downloads page."
+        }
+    ],
+    "controls": [
+        {
+            "ques": "Which controllers are supported?",
+            "ans": "We recommend x-input controllers. If your controller has multiple modes, we recommend switching to x-input mode. To check support for your controller, please check our controller mapping page"
+        },
+        {
+            "ques": "Some of my keyboard keys are not working properly. What should I do?",
+            "ans": "Please get in touch with our support team along with your keyboard details & we can help you out!"
+        },
+        {
+            "ques": "I'm facing keyboard/mouse lag. Any solutions?",
+            "ans": "We would recommend checking out the latency section for the same."
+        }
+    ],
+    "pcMode": [
+        {
+            "ques": "What is PC mode?",
+            "ans": "PC mode is a feature which lets you use a virtual PC on our service. You can use this virtual machine however you want, i.e., to play games, edit videos, browsing the net etc."
+        },
+        {
+            "ques": "How to use PC mode?",
+            "ans": "While you're on your dashboard page, Simply Click the Power button in the center of the screen to start your PC. Your PC takes about 3-5 mins to boot up."
+        },
+        {
+            "ques": "How do I go fullscreen?",
+            "ans": "Simply press F10 while on stream to go fullscreen."
+        },
+        {
+            "ques": "How do I change my quality?",
+            "ans": "Simply press F9 while on stream to open up your setting menu and you can change your stream quality from there."
+        },
+        {
+            "ques": "How do I shutdown my machine?",
+            "ans": "Simply press F9 while on stream to open up your setting menu and then press Shutdown PC."
+        }
+    ],
+    "plans": [
+        {
+            "ques": "How do I buy a subscription?",
+            "ans": " You can buy our subscription via the pricing page. You can use payment methods such as UPI, Credit/Debit Card, Netbanking & Digital Wallets "
+        },
+        {
+            "ques": "Can I buy the Rs 40 plan?",
+            "ans": " The Rs 40 plan is a top up plan. It's purpose is to increase the hours that are provided to you via the monthly plans. You can procure it only after purchasing a monthly subscription. "
+        },
+        {
+            "ques": "How do I cancel my subscription?",
+            "ans": "You can get in touch with our support team at support@antcloud.co & they can help you out. Please note that we do not offer refunds or prorated reimbursements for partial subscription periods. Your access to Ant Cloud services will continue until the end of your current billing cycle, regardless of when you choose to cancel."
+        },
+        {
+            "ques": "Can I upgrade my subscription?",
+            "ans": "If you are on a Premium plan, you can upgrade to the Ultimate plan at any time. Your new plan will start immediately, and any remaining time on your previous plan will be forfeited."
+        },
+        {
+            "ques": "Can I downgrade my subscription?",
+            "ans": "If you are on an Ultimate plan, you can downgrade to the Premium plan at any time. Your new plan will start immediately after your current subscription expires."
+        },
+        {
+            "ques": "How long is my data stored after my subscription ends?",
+            "ans": "Your data is stored for 7 days following the end of your subscription. After this period, it will be permanently deleted."
+        },
+        {
+            "ques": "Can I renew my plan?",
+            "ans": "Yes, you can renew your plan. If you renew before your current subscription ends, the new plan will start immediately after your current subscription expires. If you renew after your subscription ends, the new plan will begin immediately."
+        }
+    ],
+    "audio": [
+        {
+            "ques": "I feel like my audio is behind my video. Any solutions?",
+            "ans": "Simply refreshing your stream solves this issue. You can also try lowering your video quality to solve it."
+        },
+        {
+            "ques": "Do you support all wireless headphones/earphones?",
+            "ans": "Currently we have not seen any issues with wireless/wired headphones. If you are facing any issue though, please reach out to our support team. "
+        }
+    ],
+    "profile": [
+        {
+            "ques": "Can I change my registered email ID?",
+            "ans": "Simply get in touch with our support team at support@antcloud.co & they can help you out."
+        },
+        {
+            "ques": "How do I change my password?",
+            "ans": "Simply get in touch with our support team at support@antcloud.co & they can help you out."
+        }
+    ]
+}
