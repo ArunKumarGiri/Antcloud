@@ -1,7 +1,7 @@
 "use client"
 import React, { useRef, useEffect, useState } from "react"
 import styles from "@/app/stream/streampage.module.css"
-import Stream from '@/app/components/stream/Stream';
+import Stream from '@/app/components/stream/stream';
 import Spinner from "@/app/components/stream/overlays/spinner";
 import { Dashboard } from "@/app/components/dashboard";
 import { useDispatch, useSelector } from "react-redux";

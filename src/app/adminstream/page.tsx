@@ -1,7 +1,7 @@
 "use client"
 import React, { useEffect, useState, ChangeEvent } from "react"
 import styles from "../stream/streampage.module.css"
-import Stream from "../components/stream/Stream";
+import Stream from "../components/stream/stream";
 import Spinner from "../components/stream/overlays/spinner";
 import { useSelector } from "react-redux";
 import { useRouter } from "next/navigation";
